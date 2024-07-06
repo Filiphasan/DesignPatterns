@@ -2,4 +2,5 @@
 Design Patterns Example with Csharp
 
 ### List of Design Patterns
-- Factory Design Pattern
+- Factory Design Pattern 👍
+- Singleton Design Pattern 👎

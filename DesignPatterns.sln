@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryDp", "FactoryDp", "{0B0FD913-19FE-4F52-9534-066D4F0BA124}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0B0FD913-19FE-4F52-9534-066D4F0BA124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDp", "FactoryDp\FactoryDp\FactoryDp.csproj", "{AEC566AC-B29B-4453-9EC2-D9FE26BA67CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDp", "src\FactoryDp\FactoryDp.csproj", "{AEC566AC-B29B-4453-9EC2-D9FE26BA67CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
