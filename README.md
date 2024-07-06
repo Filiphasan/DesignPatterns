@@ -2,8 +2,8 @@
 Design Patterns Example with Csharp
 
 ### List of Design Patterns
-- Factory Design Pattern ✔️
-- Singleton Design Pattern 🕒
+- [Factory Design Pattern](src/FactoryDp) ✔️
+- [Singleton Design Pattern](src/SingletonDp) 🕒
 - Builder Design Pattern 🕒
 - Adapter Design Pattern 🕒
 - Strategy Design Pattern 🕒
