@@ -1,15 +1,12 @@
-﻿using FactoryDp.Services.Interfaces;
-
-namespace FactoryDp.Services.Implementations;
+﻿namespace FactoryDp.Services.Implementations;
 
 public abstract class PaymentBaseService<T>(
     ILogger<T> logger
 )
 {
-    protected Task HandlePaymentSuccessAsync()
+    protected async Task HandlePaymentSuccessAsync()
     {
-        Task.Delay(1000);
+        await Task.Delay(1000);
         logger.LogInformation("Payment Success");
-        return Task.CompletedTask;
     }
 }

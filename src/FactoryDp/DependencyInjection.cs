@@ -14,6 +14,12 @@ public static class DependencyInjection
         services.AddScoped<GarantiPaymentService>();
         services.AddScoped<AkbankPaymentService>();
 
+        services.AddScoped<INotificationFactoryService, NotificationFactoryService>();
+        services.AddScoped<SmsNotificationService>();
+        services.AddScoped<EmailNotificationService>();
+        services.AddScoped<WhatsappNotificationService>();
+        services.AddScoped<CallNotificationService>();
+
         return services;
     }
 }
