@@ -1,0 +1,6 @@
+@SingletonDp_HostAddress = http://localhost:5159
+
+GET {{SingletonDp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
