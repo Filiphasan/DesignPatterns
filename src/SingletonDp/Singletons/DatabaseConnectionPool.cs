@@ -21,11 +21,11 @@ public class DatabaseConnectionPool
         for (int i = 0; i < MaxPoolSize; i++)
         {
             var connection = new SqlConnection(ConnectionString);
-            // connection.Open();
+            connection.Open();
             _connectionPool.Add(connection);
         }
     }
-    
+
     public IDbConnection Get()
     {
         if (_connectionPool.TryTake(out var connection))
