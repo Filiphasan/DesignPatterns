@@ -6,7 +6,7 @@
   - [EMail](Services/Implementations/EmailNotificationService.cs)
   - [Whatsapp](Services/Implementations/WhatsappNotificationService.cs)
   - [Call](Services/Implementations/CallNotificationService.cs)
-- Credit Card Payment Service Factory
+- [Credit Card Payment Service Factory](Services/Factories/PaymentServiceFactory.cs)
   - [YapiKredi](Services/Implementations/YapiKrediPaymentService.cs)
   - [IsBankasi](Services/Implementations/IsBankasiPaymentService.cs)
   - [Garanti](Services/Implementations/GarantiPaymentService.cs)
