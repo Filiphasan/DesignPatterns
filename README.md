@@ -9,7 +9,7 @@ Design Patterns Example with Csharp
 - [Factory Design Pattern](src/FactoryDp) ✔️
 - [Singleton Design Pattern](src/SingletonDp) ✔️
 - [Static Factory Pattern](src/StaticFactoryDp) ✔️
-- [Builder Design Pattern](src/BuilderDp) 🕒
+- [Builder Design Pattern](src/BuilderDp) ✔️
 - Adapter Design Pattern 🕒
 - Strategy Design Pattern 🕒
 - Observer Design Pattern 🕒
