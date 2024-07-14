@@ -1,5 +1,4 @@
 ﻿using Carter;
-using Microsoft.AspNetCore.Mvc;
 using SingletonDp.Singletons;
 
 namespace SingletonDp.Endpoints;
