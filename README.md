@@ -11,9 +11,10 @@ Design Patterns Example with Csharp
 - [Static Factory Pattern](src/StaticFactoryDp) ✔️
 - [Builder Design Pattern](src/BuilderDp) ✔️
 - [Adapter Design Pattern](src/AdapterDp) ✔️
-- Strategy Design Pattern 🕒
+- [Strategy Design Pattern](src/StrategyDp) ✔️
 - Observer Design Pattern 🕒
 - Decorator Design Pattern 🕒
+- Options Design Pattern 🕒
 - Disposable Design Pattern 🕒
 - Proxy Design Pattern 🕒
 - Command Design Pattern 🕒
