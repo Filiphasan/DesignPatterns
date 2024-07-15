@@ -32,7 +32,7 @@ public class RouteEndpoint : ICarterModule
             RouteType.Car => serviceProvider.GetRequiredService<CarRouteService>(),
             RouteType.Bicycle => serviceProvider.GetRequiredService<BicycleRouteService>(),
             RouteType.Foot => serviceProvider.GetRequiredService<FootRouteService>(),
-            _ => throw new NotImplementedException()
+            _ => throw new InvalidOperationException("Invalid route type")
         };
 
         var routeStrategyContext = serviceProvider.GetRequiredService<RouteStrategyContext>();
