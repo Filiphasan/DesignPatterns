@@ -13,7 +13,7 @@ Design Patterns Example with Csharp
 - [Adapter Design Pattern](src/AdapterDp) ✔️
 - [Strategy Design Pattern](src/StrategyDp) ✔️
 - [Observer Design Pattern](src/ObserverDp) ✔️
-- Options Design Pattern 🕒
+- [Options Design Pattern](src/OptionsDp) ✔️
 - Decorator Design Pattern 🕒
 - Disposable Design Pattern 🕒
 - Proxy Design Pattern 🕒
