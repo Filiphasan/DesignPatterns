@@ -12,11 +12,13 @@ Design Patterns Example with Csharp
 - [Builder Design Pattern](src/BuilderDp) ✔️
 - [Adapter Design Pattern](src/AdapterDp) ✔️
 - [Strategy Design Pattern](src/StrategyDp) ✔️
-- Observer Design Pattern 🕒
-- Decorator Design Pattern 🕒
+- [Observer Design Pattern](src/ObserverDp) ✔️
 - Options Design Pattern 🕒
+- Decorator Design Pattern 🕒
 - Disposable Design Pattern 🕒
 - Proxy Design Pattern 🕒
+- Facade Design Pattern 🕒
+- Chain of Responsibility Design Pattern 🕒
 - Command Design Pattern 🕒
 - Template Design Pattern 🕒
 - Iterator Design Pattern 🕒
