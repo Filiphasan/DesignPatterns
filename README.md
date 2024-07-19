@@ -14,7 +14,7 @@ Design Patterns Example with Csharp
 - [Strategy Design Pattern](src/StrategyDp) ✔️
 - [Observer Design Pattern](src/ObserverDp) ✔️
 - [Options Design Pattern](src/OptionsDp) ✔️
-- Decorator Design Pattern 🕒
+- [Decorator Design Pattern](src/DecoratorDp) ✔️
 - Disposable Design Pattern 🕒
 - Proxy Design Pattern 🕒
 - Facade Design Pattern 🕒
