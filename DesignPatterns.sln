@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionsDp", "src\OptionsDp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorDp", "src\DecoratorDp\DecoratorDp.csproj", "{753DE6D6-478E-4DE9-8F2E-79464582D77B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableDp", "src\DisposableDp\DisposableDp.csproj", "{F2F73907-7995-4E30-A15C-EC72C8635A3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,7 @@ Global
 		{886BA7A5-52AB-4E1D-8E29-85988B11A2BF} = {0B0FD913-19FE-4F52-9534-066D4F0BA124}
 		{F11169E8-3BCF-4584-98ED-9B30A9E198C0} = {0B0FD913-19FE-4F52-9534-066D4F0BA124}
 		{753DE6D6-478E-4DE9-8F2E-79464582D77B} = {0B0FD913-19FE-4F52-9534-066D4F0BA124}
+		{F2F73907-7995-4E30-A15C-EC72C8635A3A} = {0B0FD913-19FE-4F52-9534-066D4F0BA124}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AEC566AC-B29B-4453-9EC2-D9FE26BA67CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -78,5 +81,9 @@ Global
 		{753DE6D6-478E-4DE9-8F2E-79464582D77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{753DE6D6-478E-4DE9-8F2E-79464582D77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{753DE6D6-478E-4DE9-8F2E-79464582D77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F73907-7995-4E30-A15C-EC72C8635A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F73907-7995-4E30-A15C-EC72C8635A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F73907-7995-4E30-A15C-EC72C8635A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F73907-7995-4E30-A15C-EC72C8635A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

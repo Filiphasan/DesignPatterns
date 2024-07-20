@@ -15,7 +15,7 @@ Design Patterns Example with Csharp
 - [Observer Design Pattern](src/ObserverDp) ✔️
 - [Options Design Pattern](src/OptionsDp) ✔️
 - [Decorator Design Pattern](src/DecoratorDp) ✔️
-- Disposable Design Pattern 🕒
+- [Disposable Design Pattern](src/DisposableDp) ✔️
 - Proxy Design Pattern 🕒
 - Facade Design Pattern 🕒
 - Chain of Responsibility Design Pattern 🕒
