@@ -8,7 +8,7 @@ Design Patterns Example with Csharp, Golang ...
 ### List of Design Patterns
 - Factory Design Pattern
     - [Csharp-Dotnet](Csharp-Dotnet/FactoryDp) ✔️
-    - [Golang](Golang) 🕒
+    - [Golang](Golang/FactoryDp) ✔️
 - Singleton Design Pattern
     - [Csharp-Dotnet](Csharp-Dotnet/SingletonDp) ✔️
     - [Golang](Golang) 🕒
