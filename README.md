@@ -20,7 +20,7 @@ Each pattern is like a blueprint that you can customize to solve a particular de
   - [Golang](Golang/BuilderDp) ✔️
 - Singleton Design Pattern
   - [Csharp-Dotnet](Csharp-Dotnet/SingletonDp) ✔️
-  - [Golang](Golang) 🕒
+  - [Golang](Golang/SingletonDp) ✔️
 - Prototype Design Pattern
   - [Csharp-Dotnet](Csharp-Dotnet) 🕒
   - [Golang](Golang) 🕒
