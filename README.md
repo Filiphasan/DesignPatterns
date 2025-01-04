@@ -17,7 +17,7 @@ Each pattern is like a blueprint that you can customize to solve a particular de
   - [Csharp-Dotnet](Csharp-Dotnet/StaticFactoryDp) ✔️
 - Builder Design Pattern
   - [Csharp-Dotnet](Csharp-Dotnet/BuilderDp) ✔️
-  - [Golang](Golang) 🕒
+  - [Golang](Golang/BuilderDp) ✔️
 - Singleton Design Pattern
   - [Csharp-Dotnet](Csharp-Dotnet/SingletonDp) ✔️
   - [Golang](Golang) 🕒
