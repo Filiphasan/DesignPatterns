@@ -7,9 +7,11 @@ import (
 )
 
 func main() {
+	fmt.Println("----------------------------------------------")
 	fmt.Println("Factory Design Pattern Example Below")
 	FactoryDp.UseFactoryDp()
 
+	fmt.Println("----------------------------------------------")
 	fmt.Println("Builder Design Pattern Example Below")
 	BuilderDp.UseBuilderDp()
 }
